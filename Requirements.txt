@@ -1,0 +1,11 @@
+numpy → for numerical operations
+
+pandas → for handling datasets
+
+scikit-learn → for ML models (Logistic Regression, Random Forest, etc.)
+
+matplotlib → for plotting graphs
+
+seaborn → for better visualization
+
+jupyter → to run .ipynb notebooks
